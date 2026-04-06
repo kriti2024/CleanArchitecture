@@ -361,3 +361,39 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# dotnet tool manifest
+.dotnet/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.swp
+*~
+
+# ASP.NET environment-specific settings (may contain secrets)
+appsettings.Development.json
+appsettings.Local.json
+appsettings.Production.json
+
+# User secrets
+secrets.json
+
+# Certificates and keys
+*.pem
+*.key
+
+# MSBuild solution cache (.NET 9+)
+*.slnx.cache
+
+# Entity Framework Tools
+*.efbundle
